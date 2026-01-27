@@ -1,4 +1,4 @@
-ch----
+---
 layout: default
 title: Page Title
 ---
@@ -59,6 +59,7 @@ along with partner agencies working on coastal protection, environmental managem
 
 ## Get Involved
 Residents, beach users, and community members are encouraged to follow our work, attend meetings, and share ideas. Visit our News & Updates page for the latest information.
+
 
 
 
