@@ -1,3 +1,7 @@
+---
+layout: default
+title: Page Title
+---
 # Projects & Improvements
 
 MRBA coordinates projects across Salisbury, Newbury, and Newburyport to improve and protect the regional shoreline.
@@ -10,3 +14,4 @@ Projects may include:
 - Habitat restoration  
 
 Project details, schedules, and public meetings will be posted here as they become available.
+
