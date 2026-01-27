@@ -11,7 +11,7 @@ title: Page Title
     </p>
   </div>
 
-  <!-- Image on the right -->
+  <!-- Image on the left -->
   <div style="flex: 0 0 250px; margin-left: 20px;">
     <img src="/assets/images/towns/salisbury-beach.jpg" alt="Salisbury Beach" style="width: 100%; border-radius: 8px;">
   </div>
@@ -22,6 +22,7 @@ Projects in Salisbury focus on:
 - Improving beach access and facilities  
 - Protecting coastal and riverfront habitats  
 - Enhancing public safety and visitor experience  
+
 
 
 
