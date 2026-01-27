@@ -1,3 +1,7 @@
+---
+layout: default
+title: Page Title
+---
 # Plans & Grants
 
 The Merrimack River Beach Alliance works closely with state and federal agencies to secure funding and develop long-term plans.
@@ -9,3 +13,4 @@ This includes:
 - Public meeting materials  
 
 Documents and reports will be posted here for public access.
+
