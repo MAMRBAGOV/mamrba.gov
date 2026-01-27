@@ -16,14 +16,49 @@ Our beaches are a shared resource. They support local communities, tourism, wild
 - Keep the public informed and involved  
 
 ## Our Communities
-The Merrimack River Beach Alliance brings together:
-- Salisbury  
-- Newbury  
-- Newburyport  
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 20px;">
+
+  <!-- Salisbury Card -->
+  <a href="/salisbury" style="flex: 1; min-width: 200px; max-width: 300px; text-decoration: none;">
+    <div style="background: white; border-radius: 10px; overflow: hidden; box-shadow: 0 3px 8px rgba(0,0,0,.1);">
+      <img src="/assets/images/towns/salisbury-thumb.jpg" alt="Salisbury" style="width: 100%; display: block;">
+      <div style="padding: 15px; color: var(--text); text-align: center;">
+        <h3>Salisbury</h3>
+        <p>Beach improvements, public access, and coastal protection initiatives.</p>
+      </div>
+    </div>
+  </a>
+
+  <!-- Newbury Card -->
+  <a href="/newbury" style="flex: 1; min-width: 200px; max-width: 300px; text-decoration: none;">
+    <div style="background: white; border-radius: 10px; overflow: hidden; box-shadow: 0 3px 8px rgba(0,0,0,.1);">
+      <img src="/assets/images/towns/newbury-thumb.jpg" alt="Newbury" style="width: 100%; display: block;">
+      <div style="padding: 15px; color: var(--text); text-align: center;">
+        <h3>Newbury</h3>
+        <p>Maintaining safe, accessible beaches and natural habitats.</p>
+      </div>
+    </div>
+  </a>
+
+  <!-- Newburyport Card -->
+  <a href="/newburyport" style="flex: 1; min-width: 200px; max-width: 300px; text-decoration: none;">
+    <div style="background: white; border-radius: 10px; overflow: hidden; box-shadow: 0 3px 8px rgba(0,0,0,.1);">
+      <img src="/assets/images/towns/newburyport-thumb.jpg" alt="Newburyport" style="width: 100%; display: block;">
+      <div style="padding: 15px; color: var(--text); text-align: center;">
+        <h3>Newburyport</h3>
+        <p>Shoreline resilience, public access, and regional coordination.</p>
+      </div>
+    </div>
+  </a>
+
+</div>
+
 
 along with partner agencies working on coastal protection, environmental management, and public access.
 
 ## Get Involved
 Residents, beach users, and community members are encouraged to follow our work, attend meetings, and share ideas. Visit our News & Updates page for the latest information.
+
 
 
