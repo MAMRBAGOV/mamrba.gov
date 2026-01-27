@@ -16,12 +16,11 @@ title: Page Title
     <img src="/assets/images/towns/salisbury-beach.jpg" alt="Salisbury Beach" style="width: 100%; border-radius: 8px;">
   </div>
 </div>
-    
-
 Projects in Salisbury focus on:
 - Improving beach access and facilities  
 - Protecting coastal and riverfront habitats  
 - Enhancing public safety and visitor experience  
+
 
 
 
