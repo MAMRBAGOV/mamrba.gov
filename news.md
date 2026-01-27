@@ -1,3 +1,7 @@
+---
+layout: default
+title: Page Title
+---
 # News & Updates
 
 This page will share:
@@ -7,3 +11,4 @@ This page will share:
 - Construction updates  
 
 Check back regularly for the latest information about MRBA’s work.
+
