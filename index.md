@@ -1,4 +1,4 @@
----
+ch----
 layout: default
 title: Page Title
 ---
@@ -22,7 +22,7 @@ Our beaches are a shared resource. They support local communities, tourism, wild
   <!-- Salisbury Card -->
   <a href="/salisbury" style="flex: 1; min-width: 200px; max-width: 300px; text-decoration: none;">
     <div style="background: white; border-radius: 10px; overflow: hidden; box-shadow: 0 3px 8px rgba(0,0,0,.1);">
-      <img src="/assets/images/towns/salisbury-thumb.jpg" alt="Salisbury" style="width: 100%; display: block;">
+      <img src="/assets/images/towns/salisbury-beach-thumb.jpg" alt="Salisbury" style="width: 100%; display: block;">
       <div style="padding: 15px; color: var(--text); text-align: center;">
         <h3>Salisbury</h3>
         <p>Beach improvements, public access, and coastal protection initiatives.</p>
@@ -59,6 +59,7 @@ along with partner agencies working on coastal protection, environmental managem
 
 ## Get Involved
 Residents, beach users, and community members are encouraged to follow our work, attend meetings, and share ideas. Visit our News & Updates page for the latest information.
+
 
 
 
