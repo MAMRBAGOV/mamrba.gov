@@ -1,1 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }} | Merrimack River Beach Alliance</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
+  <!-- Main stylesheet -->
+  <link rel="stylesheet" href="/assets/style.css">
+</head>
+
+<body>
+
+  <!-- ===== Header ===== -->
+  <header class="site-header">
+    <div class="wrap">
+      <h1 class="site-title">
+        <a href="/">Merrimack River Beach Alliance</a>
+      </h1>
+
+      <nav class="nav">
+        <a href="/">Home</a>
+        <a href="/about">About</a>
+        <a href="/projects">Projects</a>
+        <a href="/plans">Plans</a>
+        <a href="/beaches">Beaches</a>
+        <a href="/news">News</a>
+        <a href="/contact">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+
+  <!-- ===== Page Content ===== -->
+  <main class="content wrap">
+    {{ content }}
+  </main>
+
+
+  <!-- ===== Footer ===== -->
+  <footer class="footer">
+    <div class="wrap">
+      <p>
+        © {{ site.time | date: "%Y" }} Merrimack River Beach Alliance (MRBA)<br>
+        A collaboration of Salisbury • Newbury • Newburyport
+      </p>
+    </div>
+  </footer>
+
+</body>
+</html>
