@@ -4,20 +4,15 @@
   <meta charset="UTF-8">
   <title>{{ page.title }} | Merrimack River Beach Alliance</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  <!-- Main stylesheet -->
   <link rel="stylesheet" href="/assets/style.css">
 </head>
 
 <body>
 
-  <!-- ===== Header ===== -->
+  <!-- Header -->
   <header class="site-header">
     <div class="wrap">
-      <h1 class="site-title">
-        <a href="/">Merrimack River Beach Alliance</a>
-      </h1>
-
+      <h1 class="site-title"><a href="/">Merrimack River Beach Alliance</a></h1>
       <nav class="nav">
         <a href="/">Home</a>
         <a href="/about">About</a>
@@ -30,19 +25,19 @@
     </div>
   </header>
 
+  <!-- Banner -->
+  <div class="hero"></div>
 
-  <!-- ===== Page Content ===== -->
+  <!-- Page content -->
   <main class="content wrap">
     {{ content }}
   </main>
 
-
-  <!-- ===== Footer ===== -->
+  <!-- Footer -->
   <footer class="footer">
     <div class="wrap">
-      <p>
-        © {{ site.time | date: "%Y" }} Merrimack River Beach Alliance (MRBA)<br>
-        A collaboration of Salisbury • Newbury • Newburyport
+      <p>© {{ site.time | date: "%Y" }} Merrimack River Beach Alliance (MRBA)<br>
+         A collaboration of Salisbury • Newbury • Newburyport
       </p>
     </div>
   </footer>
