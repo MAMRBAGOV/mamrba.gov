@@ -57,8 +57,11 @@ Our beaches are a shared resource. They support local communities, tourism, wild
 
 along with partner agencies working on coastal protection, environmental management, and public access.
 
+<a href="https://www.mass.gov/dcr-programs-services" target="_blank">DCR-Programs and Services</a>
+
 ## Get Involved
 Residents, beach users, and community members are encouraged to follow our work, attend meetings, and share ideas. Visit our News & Updates page for the latest information.
+
 
 
 
