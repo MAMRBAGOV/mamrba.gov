@@ -21,6 +21,7 @@ Projects in Salisbury focus on:
 - Protecting coastal and riverfront habitats  
 - Enhancing public safety and visitor experience  
 
+<a href="https://www.salisburyma.gov" target="_blank">Visit the Town of Salisbury website</a>
 
 
 
