@@ -23,4 +23,5 @@ Work in Newbury includes:
 - Access improvements  
 - Long-term coastal planning  
 
+<a href="https://www.newburyma.gov" target="_blank">Visit the Town of Newbury website</a>
 
