@@ -22,3 +22,5 @@ Focus areas include:
 - Public access and waterfront connections  
 - Flood resilience  
 - Environmental protection  
+
+<a href="[(https://www.cityofnewburyport.com/}\]" target="_blank">Visit the City of Newburyport website</a>
