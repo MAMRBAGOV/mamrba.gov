@@ -23,6 +23,8 @@ Projects in Salisbury focus on:
 
 <a href="https://www.salisburyma.gov" target="_blank">Visit the Town of Salisbury website</a>
 
+<img src="/assets/images/towns/salisbury_beach_public_access_points.jpg" style="width:100%; border-radius:8px;">
+
 
 
 
