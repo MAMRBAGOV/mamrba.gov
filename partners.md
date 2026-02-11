@@ -62,6 +62,15 @@ The Merrimack River Beach Alliance works closely with regional, state, federal, 
       <span style="color:#1f6f8b; font-weight:600;">Visit Website →</span>
     </div>
   </a>
+  <!-- Department of Envir -->
+  <a href="https://www.nae.usace.army.mil/" target="_blank" style="flex:1; min-width:260px; text-decoration:none;">
+    <div style="background:white; padding:22px; border-radius:12px; box-shadow:0 3px 10px rgba(0,0,0,.1); height:100%; text-align:center;">
+      <img src="/assets/images/army-corps-logo.png" style="max-height:70px; margin-bottom:15px;">
+      <h3>U.S. Army Corps of Engineers</h3>
+      <p>Leads federal coastal storm risk reduction, shoreline stabilization, and infrastructure protection projects in partnership with local communities.</p>
+      <span style="color:#1f6f8b; font-weight:600;">Visit Website →</span>
+    </div>
+  </a>
 
 </div>
 
@@ -92,5 +101,6 @@ The Merrimack River Beach Alliance works closely with regional, state, federal, 
   </a>
 
 </div>
+
 
 
