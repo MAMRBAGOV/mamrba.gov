@@ -17,30 +17,42 @@ These partnerships provide technical expertise, regulatory guidance, and funding
 <div style="display:flex; flex-wrap:wrap; gap:20px; margin-top:20px;">
 
   <!-- MVPC Card -->
-  <a href="https://mvpc.org" target="_blank" style="flex:1; min-width:240px; text-decoration:none;">
-    <div style="background:white; padding:20px; border-radius:10px; box-shadow:0 3px 8px rgba(0,0,0,.1); height:100%;">
-      <h3 style="margin-top:0;">Merrimack Valley Planning Commission (MVPC)</h3>
+  <a href="https://mvpc.org" target="_blank" style="flex:1; min-width:260px; text-decoration:none;">
+    <div style="background:white; padding:22px; border-radius:12px; box-shadow:0 3px 10px rgba(0,0,0,.1); height:100%; text-align:center;">
+
+      <img src="/assets/images/mvpc-logo.png" alt="MVPC Logo" style="max-height:70px; margin-bottom:15px;">
+
+      <h3 style="margin-top:0;">Merrimack Valley Planning Commission</h3>
+
       <p>
-        Regional planning agency providing technical assistance, environmental planning, GIS support, 
-        transportation coordination, and long-term infrastructure planning for Merrimack Valley communities.
+        Regional planning agency providing environmental planning, GIS support,
+        transportation coordination, and infrastructure planning for Merrimack Valley communities.
       </p>
+
       <span style="color:#1f6f8b; font-weight:600;">Visit Website →</span>
     </div>
   </a>
 
+
   <!-- PITA Card -->
-  <a href="https://www.plumislandtaxpayers.org" target="_blank" style="flex:1; min-width:240px; text-decoration:none;">
-    <div style="background:white; padding:20px; border-radius:10px; box-shadow:0 3px 8px rgba(0,0,0,.1); height:100%;">
+  <a href="https://www.plumislandtaxpayers.org" target="_blank" style="flex:1; min-width:260px; text-decoration:none;">
+    <div style="background:white; padding:22px; border-radius:12px; box-shadow:0 3px 10px rgba(0,0,0,.1); height:100%; text-align:center;">
+
+      <img src="/assets/images/pita-logo.png" alt="PITA Logo" style="max-height:70px; margin-bottom:15px;">
+
       <h3 style="margin-top:0;">Plum Island Taxpayers & Associates (PITA)</h3>
+
       <p>
-        Community nonprofit organization supporting Plum Island residents through advocacy, communication,
-        and local initiatives focused on coastal and neighborhood issues.
+        Community nonprofit organization supporting Plum Island residents through advocacy,
+        communication, and local coastal initiatives.
       </p>
+
       <span style="color:#1f6f8b; font-weight:600;">Visit Website →</span>
     </div>
   </a>
 
 </div>
+
 
 ## State Partners
 
@@ -72,6 +84,7 @@ Through collaboration with these agencies, the Alliance is able to:
 
 For questions about partnerships or collaboration opportunities, please  
 [Contact Us →](/contact)
+
 
 
 
