@@ -1,7 +1,6 @@
 ---
 layout: default
-title Upper North Shore Regional Shore Protection Strategy 
-Development and Needs Assessment
+title: CZM Grant Award
 ---
 
 # CZM Grant Award & Project Updates
