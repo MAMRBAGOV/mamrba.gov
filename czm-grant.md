@@ -49,8 +49,6 @@ The project exemplifies local and regional partnerships by bringing together thr
 - [Grant Application (PDF)](/assets/docs/CZM_Grant_Application.pdf)
 - [Project Scope & Work Plan (PDF)](/assets/docs/CZM_Project_Scope.pdf)
 
-
-
 ---
 
 ## Project Updates
@@ -61,8 +59,8 @@ The project exemplifies local and regional partnerships by bringing together thr
 
 ### February 2026
 - Site assessments and data collection underway
-- monthly check in meeting
-- website development
+- Monthly check in meeting
+- Website development
 
 ### March 2026
 - Public information session scheduled
