@@ -5,11 +5,18 @@ title: Partners
 
 # Agency Partners
 
-The Merrimack River Beach Alliance works closely with state and federal agencies to advance coastal resilience, environmental protection, and sustainable shoreline improvements along the Merrimack River and surrounding beaches.
+The Merrimack River Beach Alliance works closely with town, state and federal agencies and organizations to advance coastal resilience, environmental protection, and sustainable shoreline improvements along the Merrimack River and surrounding beaches.
 
 These partnerships provide technical expertise, regulatory guidance, and funding support that help move projects forward for the benefit of all three communities.
 
 ---
+## Organization Partners
+<p>
+  <a href="https://www.plumislandtaxpayers.org" target="_blank">
+    Plum Island Taxpayers & Associates (PITA)
+  </a> — a nonprofit organization serving Plum Island residents and tracking local issues.
+</p>
+
 
 ## State Partners
 
@@ -41,3 +48,4 @@ Through collaboration with these agencies, the Alliance is able to:
 
 For questions about partnerships or collaboration opportunities, please  
 [Contact Us →](/contact)
+
