@@ -54,9 +54,4 @@ identification of potential nourishment sources.
 
 ---
 
-## Contact
 
-For questions about the CZM project, please contact:
-
-**Merrimack River Beach Alliance**  
-[Contact Us](/contact)
