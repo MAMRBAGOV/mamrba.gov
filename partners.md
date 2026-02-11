@@ -62,7 +62,8 @@ The Merrimack River Beach Alliance works closely with regional, state, federal, 
       <span style="color:#1f6f8b; font-weight:600;">Visit Website →</span>
     </div>
   </a>
-  <!-- Department of Envir -->
+  
+  <!-- Department of Environmental Protection -->
   <a href="https://www.mass.gov/orgs/massachusetts-department-of-environmental-protection" target="_blank" style="flex:1; min-width:260px; text-decoration:none;">
     <div style="background:white; padding:22px; border-radius:12px; box-shadow:0 3px 10px rgba(0,0,0,.1); height:100%; text-align:center;">
       <img src="/assets/images/dep-logo.png" style="max-height:70px; margin-bottom:15px;">
@@ -101,6 +102,7 @@ The Merrimack River Beach Alliance works closely with regional, state, federal, 
   </a>
 
 </div>
+
 
 
 
