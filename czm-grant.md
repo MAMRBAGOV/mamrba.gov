@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Upper North Shore Regional Shore Protection Strategy 
+title Upper North Shore Regional Shore Protection Strategy 
 Development and Needs Assessment
 ---
 
