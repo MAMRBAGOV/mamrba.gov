@@ -46,7 +46,7 @@ The project exemplifies local and regional partnerships by bringing together thr
 
 ## Documents
 
-- [Grant Award Announcement (PDF)](/assets/docs/CZM_Grant_Award.pdf)
+- [Grant Application (PDF)](/assets/docs/CZM_Grant_Application.pdf)
 - [Project Scope & Work Plan (PDF)](/assets/docs/CZM_Project_Scope.pdf)
 
 
