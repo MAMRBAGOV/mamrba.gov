@@ -1,9 +1,9 @@
 ---
 layout: default
-title: CZM Grant Award
+title: CR FY26 Grant Award
 ---
 
-# CZM Grant Award & Project Updates
+# CR FY26 Grant Award & Project Updates
 
 The Town of Salisbury will partner with Newbury and Newburyport on a long-term, regional planning effort to evaluate 
 coastal erosion and sediment transport and the feasibility of shore protection strategies. 
@@ -19,6 +19,8 @@ identification of potential nourishment sources.
 **Project Title:** Upper North Shore Regional Shore Protection Strategy Development and Needs Assessment  
 **Lead Partners:** Salisbury, Newbury, Newburyport  
 **Funding:** $232,830
+
+This project directly supports adaptation to climate impacts such as sea level rise, storm surge, and coastal erosion. It includes updated coastal modeling, shoreline change analysis, and evaluation of beach and dune nourishment strategies designed to buffer public infrastructure and natural resources. Alternatives will be assessed against sea level rise projections at 10-, 20-, and 50-year intervals. The project also identifies sustainable sediment sources, including beneficial reuse of dredged material. Through public engagement, it will build support for science-based resiliency solutions. The project proposes 2 public workshops pulling together stakeholders in coastal resiliency planning, a survey to collect additional comments outside of the workshop, and a regional website addressing coastal resiliency, increasing accessibility to the information generated through the grant process. In addition to science-based solutions, this project focuses on partnership and collaboration.
 
 ### Goals
 - Improve shoreline stability and dune protection  
