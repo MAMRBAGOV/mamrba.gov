@@ -16,8 +16,9 @@ identification of potential nourishment sources.
 
 **Funding Program:** Massachusetts Coastal Zone Management (CZM)  
 **Award Year:** 2026  
-**Project Area:** Merrimack River and surrounding beaches  
+**Project Title:** Upper North Shore Regional Shore Protection Strategy Development and Needs Assessment  
 **Lead Partners:** Salisbury, Newbury, Newburyport  
+**Funding:** $232,830
 
 ### Goals
 - Improve shoreline stability and dune protection  
