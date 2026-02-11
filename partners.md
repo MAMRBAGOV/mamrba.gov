@@ -10,11 +10,16 @@ The Merrimack River Beach Alliance works closely with town, state and federal ag
 These partnerships provide technical expertise, regulatory guidance, and funding support that help move projects forward for the benefit of all three communities.
 
 ---
-## Organization Partners
+## Collaborative Partners
 <p>
   <a href="https://www.plumislandtaxpayers.org" target="_blank">
     Plum Island Taxpayers & Associates (PITA)
   </a> — a nonprofit organization serving Plum Island residents and tracking local issues.
+</p>
+<p>
+  <a href="https://mvpc.org" target="_blank">
+    Merrimack Valley Planning Commission (MVPC)
+  </a> — a regional planning agency supporting joint planning, infrastructure, environmental stewardship and community development in the Merrimack Valley region, including Salisbury, Newbury and Newburyport. :contentReference[oaicite:6]{index=6}
 </p>
 
 
@@ -48,4 +53,5 @@ Through collaboration with these agencies, the Alliance is able to:
 
 For questions about partnerships or collaboration opportunities, please  
 [Contact Us →](/contact)
+
 
