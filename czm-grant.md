@@ -29,7 +29,7 @@ identification of potential nourishment sources.
 
 ---
 
-## 📄 Documents
+## Documents
 
 - [Grant Award Announcement (PDF)](/assets/docs/CZM_Grant_Award.pdf)
 - [Project Scope & Work Plan (PDF)](/assets/docs/CZM_Project_Scope.pdf)
@@ -38,7 +38,7 @@ identification of potential nourishment sources.
 
 ---
 
-## 📢 Project Updates
+## Project Updates
 
 ### January 2026
 - Grant awarded
