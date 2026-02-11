@@ -12,3 +12,16 @@ MRBA works to make sure these beaches remain:
 - Environmentally healthy  
 - Resilient to climate change  
 
+The project partner team is as follows: 
+Lisa Pearson, Director of Planning and Development                                                                                                      
+Adriane Marchand, Conservation Agent, Town of Salisbury 
+Alison Weaver, Administrative Assistant, Conservation and Grants
+Mason Ferrick, Newbury Conservation Agent 
+Andrew Port, Newburyport Director of Planning
+Patrice Kish, DCR Chief, Design & Engineering
+Darryl Forgione, DCR Project Manager                                                                                                                                      
+Hanna Mogensen, Environmental Program Coordinator & MassBays Regional Coordinator, Merrimack Valley Planning Commission                                                                                                                                                                       
+Sean Kelley, P.E., Senior Coastal Engineer (SCS)
+John Ramsey, Principal Coastal Engineer (SCS)
+
+The project team will work closely with the Merrimack River Beach Alliance, a collaborative group that brings together stakeholders in coastal resiliency within the 3 communities and all levels of government to work on these issues.     
