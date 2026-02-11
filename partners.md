@@ -16,6 +16,7 @@ These partnerships provide technical expertise, regulatory guidance, and funding
 - <a href="https://www.mass.gov/orgs/massachusetts-office-of-coastal-zone-management" target="_blank">Massachusetts Office of Coastal Zone Management (CZM)</a>  
 - <a href="https://www.mass.gov/orgs/massachusetts-department-of-environmental-protection" target="_blank">Massachusetts Department of Environmental Protection (MassDEP)</a>  
 - <a href="https://www.mass.gov/orgs/massachusetts-division-of-marine-fisheries" target="_blank">Division of Marine Fisheries</a>  
+- <a href="https://www.mass.gov/orgs/department-of-conservation-recreation" target="_blank">Department of Conservation & Recreation (DCR)</a>  
 - <a href="https://www.mass.gov/orgs/executive-office-of-energy-and-environmental-affairs" target="_blank">Executive Office of Energy & Environmental Affairs (EEA)</a>  
 
 ---
@@ -40,4 +41,3 @@ Through collaboration with these agencies, the Alliance is able to:
 
 For questions about partnerships or collaboration opportunities, please  
 [Contact Us →](/contact)
-
