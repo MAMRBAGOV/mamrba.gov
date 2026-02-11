@@ -29,6 +29,17 @@ This project directly supports adaptation to climate impacts such as sea level r
 - Support regional planning and coordination  
 - Engage and inform the public  
 
+The project exemplifies local and regional partnerships by bringing together three municipalities for a regional project. The project also partners with the Massachusetts Department of Conservation and Recreation and utilizes the skills of the Merrimack Valley Planning Commission to ensure the best reach and complete context of project materials. The project partner team is as follows: 
+Lisa Pearson, Director of Planning and Development                                                                                                      
+Adriane Marchand, Conservation Agent, Town of Salisbury 
+Alison Weaver, Administrative Assistant, Conservation and Grants
+Mason Ferrick, Newbury Conservation Agent 
+Andrew Port, Newburyport Director of Planning
+Patrice Kish, DCR Chief, Design & Engineering
+Darryl Forgione, DCR Project Manager                                                                                                                                      
+Hanna Mogensen, Environmental Program Coordinator & MassBays Regional Coordinator, Merrimack Valley Planning Commission                                                                                                                                                                       
+Sean Kelley, P.E., Senior Coastal Engineer (SCS)
+John Ramsey, Principal Coastal Engineer (SCS)
 ---
 
 ## Documents
