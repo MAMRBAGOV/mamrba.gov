@@ -10,17 +10,38 @@ The Merrimack River Beach Alliance works closely with town, state and federal ag
 These partnerships provide technical expertise, regulatory guidance, and funding support that help move projects forward for the benefit of all three communities.
 
 ---
-## Collaborative Partners
-<p>
-  <a href="https://www.plumislandtaxpayers.org" target="_blank">
-    Plum Island Taxpayers & Associates (PITA)
-  </a> — a nonprofit organization serving Plum Island residents and tracking local issues.
-</p>
-<p>
-  <a href="https://mvpc.org" target="_blank">
-    Merrimack Valley Planning Commission (MVPC)
-  </a> — a regional planning agency supporting joint planning, infrastructure, environmental stewardship and community development in the Merrimack Valley region, including Salisbury, Newbury and Newburyport.
-</p>
+---
+
+## Regional & Community Partners
+
+<div style="display:flex; flex-wrap:wrap; gap:20px; margin-top:20px;">
+
+  <!-- MVPC Card -->
+  <a href="https://mvpc.org" target="_blank" style="flex:1; min-width:240px; text-decoration:none;">
+    <div style="background:white; padding:20px; border-radius:10px; box-shadow:0 3px 8px rgba(0,0,0,.1); height:100%;">
+      <h3 style="margin-top:0;">Merrimack Valley Planning Commission (MVPC)</h3>
+      <p>
+        Regional planning agency providing technical assistance, environmental planning, GIS support, 
+        transportation coordination, and long-term infrastructure planning for Merrimack Valley communities.
+      </p>
+      <span style="color:#1f6f8b; font-weight:600;">Visit Website →</span>
+    </div>
+  </a>
+
+  <!-- PITA Card -->
+  <a href="https://www.plumislandtaxpayers.org" target="_blank" style="flex:1; min-width:240px; text-decoration:none;">
+    <div style="background:white; padding:20px; border-radius:10px; box-shadow:0 3px 8px rgba(0,0,0,.1); height:100%;">
+      <h3 style="margin-top:0;">Plum Island Taxpayers & Associates (PITA)</h3>
+      <p>
+        Community nonprofit organization supporting Plum Island residents through advocacy, communication,
+        and local initiatives focused on coastal and neighborhood issues.
+      </p>
+      <span style="color:#1f6f8b; font-weight:600;">Visit Website →</span>
+    </div>
+  </a>
+
+</div>
+
 
 
 ## State Partners
@@ -53,6 +74,7 @@ Through collaboration with these agencies, the Alliance is able to:
 
 For questions about partnerships or collaboration opportunities, please  
 [Contact Us →](/contact)
+
 
 
 
