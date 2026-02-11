@@ -34,7 +34,7 @@ identification of potential nourishment sources.
 - [Grant Award Announcement (PDF)](/assets/docs/CZM_Grant_Award.pdf)
 - [Project Scope & Work Plan (PDF)](/assets/docs/CZM_Project_Scope.pdf)
 
-(Add or remove links as documents become available)
+
 
 ---
 
@@ -50,7 +50,7 @@ identification of potential nourishment sources.
 ### March 2026
 - Public information session scheduled
 
-(Add new updates here over time)
+
 
 ---
 
