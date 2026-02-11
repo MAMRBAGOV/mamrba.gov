@@ -1,13 +1,15 @@
 ---
 layout: default
-title: CZM Grant Award
+title: Upper North Shore Regional Shore Protection Strategy 
+Development and Needs Assessment
 ---
 
 # CZM Grant Award & Project Updates
 
-The Merrimack River Beach Alliance has been awarded funding through the Massachusetts Office of Coastal Zone Management (CZM) to support regional beach and shoreline improvements across Salisbury, Newbury, and Newburyport.
-
-This grant helps advance coastal resilience, protect natural resources, and improve public access to our shared shoreline.
+The Town of Salisbury will partner with Newbury and Newburyport on a long-term, regional planning effort to evaluate 
+coastal erosion and sediment transport and the feasibility of shore protection strategies. 
+The project will assess sitespecific protection options, including beach and dune nourishment and 
+identification of potential nourishment sources.
 
 ---
 
