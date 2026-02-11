@@ -61,6 +61,8 @@ The project exemplifies local and regional partnerships by bringing together thr
 
 ### February 2026
 - Site assessments and data collection underway
+- monthly check in meeting
+- website development
 
 ### March 2026
 - Public information session scheduled
