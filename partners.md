@@ -43,7 +43,6 @@ The Merrimack River Beach Alliance works closely with regional, state, federal, 
     </div>
   </a>
 
-</div>
   <!-- EEA -->
   <a href="https://www.mass.gov/orgs/executive-office-of-energy-and-environmental-affairs" target="_blank" style="flex:1; min-width:260px; text-decoration:none;">
     <div style="background:white; padding:22px; border-radius:12px; box-shadow:0 3px 10px rgba(0,0,0,.1); height:100%; text-align:center;">
@@ -91,6 +90,7 @@ The Merrimack River Beach Alliance works closely with regional, state, federal, 
   </a>
 
 </div>
+
 
 
 
