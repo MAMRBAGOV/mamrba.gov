@@ -44,6 +44,7 @@ These partnerships provide technical expertise, regulatory guidance, and funding
 
 
 
+
 ## State Partners
 
 - <a href="https://www.mass.gov/orgs/massachusetts-office-of-coastal-zone-management" target="_blank">Massachusetts Office of Coastal Zone Management (CZM)</a>  
@@ -74,6 +75,7 @@ Through collaboration with these agencies, the Alliance is able to:
 
 For questions about partnerships or collaboration opportunities, please  
 [Contact Us →](/contact)
+
 
 
 
