@@ -14,7 +14,7 @@ title: Page Title
     <input type="email" name="email">
   </label>
   <label>
-    Your message:
+    Your message (optional):
     <textarea name="message"></textarea>
   </label>
   <!-- your other form fields go here -->
@@ -31,6 +31,7 @@ This page will share:
 - Construction updates  
 
 Check back regularly for the latest information about MRBA’s work.
+
 
 
 
