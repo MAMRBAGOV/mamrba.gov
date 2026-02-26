@@ -61,6 +61,7 @@ The project exemplifies local and regional partnerships by bringing together thr
 - Site assessments and data collection underway
 - Monthly check in meeting
 - Website development
+- MVPC meeting with Town Employees to discuss public workshops
 
 ### March 2026
 - Public information session scheduled
