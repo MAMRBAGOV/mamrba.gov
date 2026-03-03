@@ -2,7 +2,7 @@
 layout: default
 title: Page Title
 ---
-# News & Updates
+# MRBA News 
 <h2>Sign Up for Email Updates</h2>
 
 <form
@@ -29,6 +29,7 @@ This page will share MRBA:
 - Meeting dates  
 
 Check back regularly for the latest information about MRBA’s work.
+
 
 
 
