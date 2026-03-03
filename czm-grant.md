@@ -48,7 +48,7 @@ The project exemplifies local and regional partnerships by bringing together thr
 
 - [Grant Application (PDF)](/assets/docs/CZM_Grant_Application.pdf)
 - [Project Scope & Work Plan (PDF)](/assets/docs/CZM_Project_Scope.pdf)
-
+- [Task 1 Presentation (PDF)](/assets/docs/SCS-Kick-off-Presentation-20260106.pdf)
 ---
 
 ## Project Updates
