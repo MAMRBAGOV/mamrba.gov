@@ -24,13 +24,12 @@ title: Page Title
 <p style="font-size:14px; color:#666;">
   We only use your email for Alliance updates. No spam.
 </p>
-This page will share:
+This page will share MRBA:
 - Project announcements  
 - Meeting dates  
-- Grant awards  
-- Construction updates  
 
 Check back regularly for the latest information about MRBA’s work.
+
 
 
 
