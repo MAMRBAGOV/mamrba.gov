@@ -50,6 +50,7 @@ The project exemplifies local and regional partnerships by bringing together thr
 - [Project Scope & Work Plan (PDF)](/assets/docs/CZM_Project_Scope.pdf)
 - [Task 1 Presentation (PDF)](/assets/docs/SCS-Kick-off-Presentation-20260106.pdf)
 - [Task 2 Presentation (PDF)](/assets/docs/UpdateMtg1Slides_02102026_MAUpperNS) - [Task 2 Summary (PDF)](/assets/docs/Task2Summary_02102026_MAUpperNS.pdf)
+  
 ---
 
 ## Project Updates
