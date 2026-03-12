@@ -30,7 +30,8 @@ By working together, the three communities can:
 MRBA works closely with state and federal agencies, environmental organizations, and coastal experts to make sure our projects are well-designed, resilient, and environmentally responsible.
 
 
-<a href="https://www.tarrtalk.com" target="_blank">to learn more about Senator Tarr</a>
+<a href="http://www.tarrtalk.com/" target="_blank">to learn more about Senator Tarr</a>
+
 
 
 
