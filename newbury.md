@@ -4,6 +4,8 @@ title: Page Title
 ---
 # Newbury
 
+We seek to promote protection and conservation of both inland and coastal wetland resources, as well as to promote and enforce compliance with local, state, and federal wetland resource regulations. We are proud to serve the Town of Newbury and help to educate the public on all conservation-related matters. 
+
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start;">
   <!-- Text on the left -->
   <div style="flex: 1; min-width: 200px;">
@@ -28,6 +30,7 @@ Work in Newbury includes:
 - Long-term coastal planning  
 
 <a href="https://www.newburyma.gov" target="_blank">Visit the Town of Newbury website</a>
+
 
 
 
