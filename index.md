@@ -83,8 +83,8 @@ body{
 }
 
 .meeting-dot{
-  width:6px;
-  height:6px;
+  width:3px;
+  height:3px;
   background:var(--ocean);
   border-radius:50%;
   margin:4px auto 0;
