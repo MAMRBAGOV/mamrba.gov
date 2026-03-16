@@ -68,7 +68,156 @@ MRBA along with partner agencies working on coastal protection, environmental ma
 ## Get Involved
 Residents, beach users, and community members are encouraged to follow our work, attend meetings, and share ideas. Visit our MRBA News page to sign up for updates.
 
+<div style="display:flex; gap:40px; align-items:flex-start; flex-wrap:wrap;">
 
+  <!-- MAIN CONTENT (LEFT) -->
+  <div style="flex:2; min-width:280px;">
+    <p>
+      Stay informed about upcoming MRBA public meetings.  
+      Click highlighted dates to view details.
+    </p>
+  </div>
+
+  <!-- CALENDAR (RIGHT SIDEBAR) -->
+  <div style="flex:1; min-width:260px; max-width:320px;">
+
+    <style>
+    :root{
+      --ocean-dark:#0b3d91;
+      --ocean:#1565c0;
+      --ocean-light:#e3f2fd;
+      --gray:#e0e0e0;
+      --white:#ffffff;
+    }
+    .mini-cal{
+      border:1px solid var(--gray);
+      border-radius:10px;
+      overflow:hidden;
+      background:var(--white);
+      font-family:Arial, sans-serif;
+      font-size:14px;
+    }
+    .mini-cal-header{
+      background:linear-gradient(135deg,var(--ocean-dark),var(--ocean));
+      color:white;
+      padding:10px;
+      display:flex;
+      justify-content:space-between;
+      align-items:center;
+    }
+    .mini-cal-header button{
+      background:white;
+      color:var(--ocean-dark);
+      border:none;
+      padding:2px 6px;
+      border-radius:4px;
+      cursor:pointer;
+      font-weight:bold;
+    }
+    .mini-month{ font-weight:bold; }
+    .mini-days,.mini-dates{
+      display:grid;
+      grid-template-columns:repeat(7,1fr);
+      text-align:center;
+    }
+    .mini-days{
+      background:var(--ocean-light);
+      font-weight:bold;
+      padding:4px 0;
+      font-size:12px;
+    }
+    .mini-dates div{
+      padding:6px 0;
+      border:1px solid #f5f5f5;
+      min-height:28px;
+    }
+    .mini-today{
+      background:var(--ocean-light);
+      border:1px solid var(--ocean);
+    }
+    .mini-meeting{
+      background:#e8f5e9;
+      cursor:pointer;
+    }
+    .mini-dot{
+      width:5px;height:5px;
+      background:var(--ocean);
+      border-radius:50%;
+      margin:2px auto 0;
+    }
+    </style>
+
+    <div class="mini-cal">
+      <div class="mini-cal-header">
+        <button onclick="miniChangeMonth(-1)">◀</button>
+        <div class="mini-month" id="miniMonth"></div>
+        <button onclick="miniChangeMonth(1)">▶</button>
+      </div>
+
+      <div class="mini-days">
+        <div>S</div><div>M</div><div>T</div><div>W</div>
+        <div>T</div><div>F</div><div>S</div>
+      </div>
+
+      <div class="mini-dates" id="miniDates"></div>
+    </div>
+
+  </div>
+</div>
+
+<script>
+const miniMeetings = {
+  "2026-03-18":[{title:"MRBA Board Meeting"}],
+  
+};
+
+const miniMonth = document.getElementById("miniMonth");
+const miniDates = document.getElementById("miniDates");
+let miniDate = new Date();
+
+function miniKey(y,m,d){
+  return `${y}-${String(m+1).padStart(2,'0')}-${String(d).padStart(2,'0')}`;
+}
+
+function miniRender(date){
+  const y=date.getFullYear();
+  const m=date.getMonth();
+  const first=new Date(y,m,1).getDay();
+  const last=new Date(y,m+1,0).getDate();
+
+  miniMonth.textContent=date.toLocaleString('default',{month:'short',year:'numeric'});
+  miniDates.innerHTML="";
+
+  for(let i=0;i<first;i++){ miniDates.innerHTML+="<div></div>"; }
+
+  for(let d=1; d<=last; d++){
+    const div=document.createElement("div");
+    div.textContent=d;
+
+    const today=new Date();
+    if(d===today.getDate() && m===today.getMonth() && y===today.getFullYear()){
+      div.classList.add("mini-today");
+    }
+
+    const key=miniKey(y,m,d);
+    if(miniMeetings[key]){
+      div.classList.add("mini-meeting");
+      const dot=document.createElement("div");
+      dot.className="mini-dot";
+      div.appendChild(dot);
+    }
+
+    miniDates.appendChild(div);
+  }
+}
+
+function miniChangeMonth(o){
+  miniDate.setMonth(miniDate.getMonth()+o);
+  miniRender(miniDate);
+}
+
+miniRender(miniDate);
+</script>
 
 
 
