@@ -86,8 +86,8 @@ body{
   width:3px;
   height:3px;
   background:var(--ocean);
-  border-radius:50%;
-  margin:4px auto 0;
+  border-radius:25%;
+  margin:2px auto 0;
 }
 
 .event-panel{
@@ -197,6 +197,7 @@ function changeMonth(offset){
 
 renderCalendar(currentDate);
 </script>
+
 ## What We Do
 - Improve public access to beaches and waterfronts  
 - Protect dunes, marshes, and natural coastal systems  
