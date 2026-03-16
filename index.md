@@ -19,7 +19,7 @@ Our beaches are a shared resource. They support local communities, tourism, wild
   <div style="flex:1; min-width:280px; max-width:360px;">
     <h3>Public Meetings</h3>
     <iframe 
-      src="<iframe src="https://calendar.google.com/calendar/embed?src=eb922fc0e34663588d0bbef4f9543a2b84d4a3ce8fa77377db8454c271da7ba4%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>"
+      src=<iframe src="https://calendar.google.com/calendar/embed?src=eb922fc0e34663588d0bbef4f9543a2b84d4a3ce8fa77377db8454c271da7ba4%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
       style="border:0"
       width="100%"
       height="400"
