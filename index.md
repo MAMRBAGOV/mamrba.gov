@@ -168,7 +168,7 @@ Residents, beach users, and community members are encouraged to follow our work,
 <script>
 const miniMeetings = {
   "2026-03-18":[{title:"MRBA Board Meeting"}],
-  
+  "2026-04-02":[{title:"Coastal Planning Session"}]
 };
 
 const miniMonth = document.getElementById("miniMonth");
