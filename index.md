@@ -12,7 +12,7 @@ Our beaches are a shared resource. They support local communities, tourism, wild
 
   <!-- LEFT SIDE TEXT -->
   <div style="flex:2; min-width:280px;">
-    <h2>Public Meetings</h2>
+    <h2>Attend a Meeting</h2>
     <p>
       The Merrimack River Beach Alliance holds regular public meetings to
       coordinate regional shoreline protection, coastal resilience planning,
@@ -20,8 +20,8 @@ Our beaches are a shared resource. They support local communities, tourism, wild
     </p>
 
     <p>
-      Meetings are open to the public. Agendas and minutes will be posted
-      as they become available.
+      Meetings are open to the public. Stay informed about upcoming MRBA public meetings.  
+      Click highlighted dates to view details.
     </p>
 
     <ul>
@@ -111,8 +111,7 @@ Residents, beach users, and community members are encouraged to follow our work,
   <!-- MAIN CONTENT (LEFT) -->
   <div style="flex:2; min-width:280px;">
     <p>
-      Stay informed about upcoming MRBA public meetings.  
-      Click highlighted dates to view details.
+    
     </p>
   </div>
 
