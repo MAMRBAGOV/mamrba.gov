@@ -8,21 +8,19 @@ Welcome to the Merrimack River Beach Alliance — a regional partnership of Sali
 
 Our beaches are a shared resource. They support local communities, tourism, wildlife habitat, and coastal resilience. By working together across town boundaries, we can make smarter investments, plan for the future, and create a safer, more accessible shoreline for everyone.
 
-<h2>Public Meetings Calendar</h2>
-
 <div style="display:flex; gap:40px; flex-wrap:wrap;">
 
   <div style="flex:2; min-width:280px;">
     <!-- Your existing content stays here -->
   </div>
 
-  <div style="flex:1; min-width:280px; max-width:360px;">
+  <div style="flex:1; min-width:260px; max-width:320px;">
     <h3>Public Meetings</h3>
     <iframe 
-      src=<iframe src="https://calendar.google.com/calendar/embed?src=eb922fc0e34663588d0bbef4f9543a2b84d4a3ce8fa77377db8454c271da7ba4%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-      style="border:0"
+      src="https://calendar.google.com/calendar/embed?src=eb922fc0e34663588d0bbef4f9543a2b84d4a3ce8fa77377db8454c271da7ba4%40group.calendar.google.com&ctz=America%2FNew_York"
+      style="border:1px solid #e0e0e0; border-radius:10px;"
       width="100%"
-      height="400"
+      height="300"
       frameborder="0"
       scrolling="no">
     </iframe>
