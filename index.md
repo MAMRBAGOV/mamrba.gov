@@ -126,14 +126,7 @@ body{
 <script>
 // ====== ADD MEETINGS HERE ======
 const meetings = {
-  "2026-03-18": [
-    { title:"Planning Board Meeting", time:"6:30 PM", location:"Town Hall - Hearing Room" }
-  ],
-  "2026-03-24": [
-    { title:"Conservation Commission", time:"7:00 PM", location:"Virtual (Zoom)" }
-  ],
-  "2026-04-02": [
-    { title:"Select Board Meeting", time:"6:00 PM", location:"Town Hall - Main Chamber" }
+ 
   ]
 };
 // ===============================
