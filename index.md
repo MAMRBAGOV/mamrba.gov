@@ -127,8 +127,8 @@ body{
 // ====== ADD MEETINGS HERE ======
 const meetings = {
  
-  ]
-};
+  
+}
 // ===============================
 
 const monthYear = document.getElementById("monthYear");
