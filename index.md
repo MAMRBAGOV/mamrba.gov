@@ -7,17 +7,29 @@ title: Page Title
 Welcome to the Merrimack River Beach Alliance — a regional partnership of Salisbury, Newbury, and Newburyport working together with state and federal agencies to protect, improve, and enhance the beaches and shoreline along the Merrimack River and surrounding coast.
 
 Our beaches are a shared resource. They support local communities, tourism, wildlife habitat, and coastal resilience. By working together across town boundaries, we can make smarter investments, plan for the future, and create a safer, more accessible shoreline for everyone.
-  <!-- CALENDAR (RIGHT SIDEBAR) -->
+
+<div style="display:flex; gap:40px; align-items:flex-start; flex-wrap:wrap;">
+
+  <!-- LEFT CONTENT -->
+  <div style="flex:2; min-width:280px;">
+    <p>
+      Stay informed about upcoming MRBA public meetings.
+      Meeting dates are highlighted on the calendar.
+    </p>
+  </div>
+
+  <!-- RIGHT SIDEBAR CALENDAR -->
   <div style="flex:1; min-width:260px; max-width:320px;">
 
     <style>
     :root{
-       --ocean-dark: #0b3c5d;
-        --ocean: #1f6f8b;
-        --ocean-light: #e6f3f7;
-        --sand: #f7f9fb;
-        --text: #1f2d3d;
+      --ocean-dark:#0b3d91;
+      --ocean:#1565c0;
+      --ocean-light:#e3f2fd;
+      --gray:#e0e0e0;
+      --white:#ffffff;
     }
+
     .mini-cal{
       border:1px solid var(--gray);
       border-radius:10px;
@@ -26,6 +38,7 @@ Our beaches are a shared resource. They support local communities, tourism, wild
       font-family:Arial, sans-serif;
       font-size:14px;
     }
+
     .mini-cal-header{
       background:linear-gradient(135deg,var(--ocean-dark),var(--ocean));
       color:white;
@@ -34,6 +47,7 @@ Our beaches are a shared resource. They support local communities, tourism, wild
       justify-content:space-between;
       align-items:center;
     }
+
     .mini-cal-header button{
       background:white;
       color:var(--ocean-dark);
@@ -43,36 +57,49 @@ Our beaches are a shared resource. They support local communities, tourism, wild
       cursor:pointer;
       font-weight:bold;
     }
+
     .mini-month{ font-weight:bold; }
+
     .mini-days,.mini-dates{
       display:grid;
       grid-template-columns:repeat(7,1fr);
       text-align:center;
     }
+
     .mini-days{
       background:var(--ocean-light);
       font-weight:bold;
       padding:4px 0;
       font-size:12px;
     }
+
     .mini-dates div{
       padding:6px 0;
       border:1px solid #f5f5f5;
       min-height:28px;
+      position:relative;
     }
+
     .mini-today{
       background:var(--ocean-light);
       border:1px solid var(--ocean);
+      border-radius:6px;
+      font-weight:bold;
     }
+
+    /* CLEAN CIRCLE HIGHLIGHT FOR MEETINGS */
     .mini-meeting{
-      background:#e8f5e9;
-      cursor:pointer;
+      font-weight:bold;
+      color:white;
     }
-    .mini-dot{
-      width:5px;height:5px;
+
+    .mini-meeting::after{
+      content:"";
+      position:absolute;
+      inset:3px;
       background:var(--ocean);
       border-radius:50%;
-      margin:2px auto 0;
+      z-index:-1;
     }
     </style>
 
@@ -97,7 +124,8 @@ Our beaches are a shared resource. They support local communities, tourism, wild
 <script>
 const miniMeetings = {
   "2026-03-18":[{title:"MRBA Board Meeting"}],
-  "2026-04-02":[{title:"Coastal Planning Session"}]
+  "2026-04-02":[{title:"MRBA Coastal Planning Session"}],
+  "2026-05-14":[{title:"MRBA Regional Meeting"}]
 };
 
 const miniMonth = document.getElementById("miniMonth");
@@ -131,9 +159,6 @@ function miniRender(date){
     const key=miniKey(y,m,d);
     if(miniMeetings[key]){
       div.classList.add("mini-meeting");
-      const dot=document.createElement("div");
-      dot.className="mini-dot";
-      div.appendChild(dot);
     }
 
     miniDates.appendChild(div);
@@ -147,13 +172,6 @@ function miniChangeMonth(o){
 
 miniRender(miniDate);
 </script>
-
-
-
-
-
-
-
 
 ## What We Do
 - Improve public access to beaches and waterfronts  
