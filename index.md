@@ -126,9 +126,10 @@ body{
 <script>
 // ====== ADD MEETINGS HERE ======
 const meetings = {
- 
-  
-}
+   "2026-03-13": [
+    { title:"MRBA Meeting", time:"10:00 AM", location:"PITA Hall" }
+  ],
+};
 // ===============================
 
 const monthYear = document.getElementById("monthYear");
