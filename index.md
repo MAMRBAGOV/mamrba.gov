@@ -83,11 +83,11 @@ Residents, beach users, and community members are encouraged to follow our work,
 
     <style>
     :root{
-      --ocean-dark:#0b3d91;
-      --ocean:#1565c0;
-      --ocean-light:#e3f2fd;
-      --gray:#e0e0e0;
-      --white:#ffffff;
+       --ocean-dark: #0b3c5d;
+  --ocean: #1f6f8b;
+  --ocean-light: #e6f3f7;
+  --sand: #f7f9fb;
+  --text: #1f2d3d;
     }
     .mini-cal{
       border:1px solid var(--gray);
