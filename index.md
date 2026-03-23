@@ -24,7 +24,7 @@ title: Page Title
       frameborder="0"
       scrolling="no">
     </iframe>
-  </div>
+  
 <!-- LEFT SIDE TEXT -->
   <div style="flex:2; min-width:280px;">
    <h2>Attend a Meeting</h2>
@@ -39,6 +39,7 @@ title: Page Title
       Click highlighted dates to view details.
     </p>
 </div>
+</div>
     <ul>
       <li>Regional coordination</li>
       <li>Beach and shoreline projects</li>
@@ -47,10 +48,9 @@ title: Page Title
     </ul>
   </div>
   </div>
-
- 
-
+  
 ## What We Do
+
 - Improve public access to beaches and waterfronts  
 - Protect dunes, marshes, and natural coastal systems  
 - Support coastal resilience and flood protection  
