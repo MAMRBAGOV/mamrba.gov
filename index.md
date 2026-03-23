@@ -14,6 +14,7 @@ title: Page Title
     Our beaches are a shared resource. They support local communities, tourism, wildlife habitat, and coastal resilience. By working together across town boundaries, we can make           smarter investments, plan for the future, and create a safer, more accessible shoreline for everyone.
     </p>
     </div>
+    
      <!-- RIGHT SIDE CALENDAR -->
   <div style="flex:1; min-width:260px; max-width:320px;">
     <iframe 
@@ -26,7 +27,6 @@ title: Page Title
     </iframe>
   </div>
   
-
 <!-- LEFT SIDE TEXT -->
   <div style="flex:2; min-width:280px;">
    <h2>Attend a Meeting</h2>
@@ -40,7 +40,7 @@ title: Page Title
       Meetings are open to the public. Stay informed about upcoming MRBA public meetings.  
       Click highlighted dates to view details.
     </p>
-
+</div>
     <ul>
       <li>Regional coordination</li>
       <li>Beach and shoreline projects</li>
