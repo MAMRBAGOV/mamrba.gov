@@ -5,7 +5,7 @@ title: Page Title
  
 <div style="display:flex; gap:40px; align-items:flex-start; flex-wrap:wrap;">
 
-  <!-- LEFT SIDE TEXT -->
+     <!-- LEFT SIDE TEXT -->
   <div style="flex:2; min-width:280px;">
    <h1>Merrimack River Beach Alliance (MRBA)</h1>
     <p>
@@ -25,7 +25,7 @@ title: Page Title
       scrolling="no">
     </iframe>
   
-<!-- LEFT SIDE TEXT -->
+     <!-- LEFT SIDE TEXT -->
   <div style="flex:2; min-width:280px;">
    <h2>Attend a Meeting</h2>
     <p>
