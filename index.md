@@ -13,7 +13,7 @@ title: Page Title
 
     Our beaches are a shared resource. They support local communities, tourism, wildlife habitat, and coastal resilience. By working together across town boundaries, we can make           smarter investments, plan for the future, and create a safer, more accessible shoreline for everyone.
     </p>
-   </div>
+
      <!-- RIGHT SIDE CALENDAR -->
   <div style="flex:1; min-width:260px; max-width:320px;">
     <iframe 
