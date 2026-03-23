@@ -2,8 +2,7 @@
 layout: default
 title: Page Title
 ---
- <!-- LEFT SIDE TEXT -->
-  <div style="flex:2; min-width:280px;">
+ 
 
 
 
@@ -17,7 +16,21 @@ title: Page Title
 
     Our beaches are a shared resource. They support local communities, tourism, wildlife habitat, and coastal resilience. By working together across town boundaries, we can make           smarter investments, plan for the future, and create a safer, more accessible shoreline for everyone.
     </p>
-    
+     <!-- RIGHT SIDE CALENDAR -->
+  <div style="flex:1; min-width:260px; max-width:320px;">
+    <iframe 
+      src="https://calendar.google.com/calendar/embed?src=eb922fc0e34663588d0bbef4f9543a2b84d4a3ce8fa77377db8454c271da7ba4%40group.calendar.google.com&ctz=America%2FNew_York"
+      style="border:1px solid #e0e0e0; border-radius:10px;"
+      width="100%"
+      height="300"
+      frameborder="0"
+      scrolling="no">
+    </iframe>
+  </div>
+
+</div>
+<!-- LEFT SIDE TEXT -->
+  <div style="flex:2; min-width:280px;">
     <h2>Attend a Meeting</h2>
     <p>
       The Merrimack River Beach Alliance holds regular public meetings to
@@ -38,19 +51,7 @@ title: Page Title
     </ul>
   </div>
 
-  <!-- RIGHT SIDE CALENDAR -->
-  <div style="flex:1; min-width:260px; max-width:320px;">
-    <iframe 
-      src="https://calendar.google.com/calendar/embed?src=eb922fc0e34663588d0bbef4f9543a2b84d4a3ce8fa77377db8454c271da7ba4%40group.calendar.google.com&ctz=America%2FNew_York"
-      style="border:1px solid #e0e0e0; border-radius:10px;"
-      width="100%"
-      height="300"
-      frameborder="0"
-      scrolling="no">
-    </iframe>
-  </div>
-
-</div>
+ 
 
 ## What We Do
 - Improve public access to beaches and waterfronts  
