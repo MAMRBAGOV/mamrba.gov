@@ -24,7 +24,7 @@ title: Page Title
       frameborder="0"
       scrolling="no">
     </iframe>
-  
+  </div>
 <!-- LEFT SIDE TEXT -->
   <div style="flex:2; min-width:280px;">
    <h2>Attend a Meeting</h2>
