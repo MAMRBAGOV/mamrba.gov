@@ -13,8 +13,31 @@ title: Page Title
 
     Our beaches are a shared resource. They support local communities, tourism, wildlife habitat, and coastal resilience. By working together across town boundaries, we can make           smarter investments, plan for the future, and create a safer, more accessible shoreline for everyone.
     </p>
+<div style="display:flex; gap:40px; align-items:flex-start; flex-wrap:wrap;">
 
-     <!-- RIGHT SIDE CALENDAR -->
+  <!-- LEFT SIDE TEXT -->
+  <div style="flex:2; min-width:280px;">
+    <h2>Public Meetings</h2>
+    <p>
+      The Merrimack River Beach Alliance holds regular public meetings to
+      coordinate regional shoreline protection, coastal resilience planning,
+      and inter-community projects.
+    </p>
+
+    <p>
+      Meetings are open to the public. Agendas and minutes will be posted
+      as they become available.
+    </p>
+
+    <ul>
+      <li>Regional coordination</li>
+      <li>Beach and shoreline projects</li>
+      <li>Grant planning and funding</li>
+      <li>Public access improvements</li>
+    </ul>
+  </div>
+
+  <!-- RIGHT SIDE CALENDAR -->
   <div style="flex:1; min-width:260px; max-width:320px;">
     <iframe 
       src="https://calendar.google.com/calendar/embed?src=eb922fc0e34663588d0bbef4f9543a2b84d4a3ce8fa77377db8454c271da7ba4%40group.calendar.google.com&ctz=America%2FNew_York"
@@ -25,29 +48,8 @@ title: Page Title
       scrolling="no">
     </iframe>
   </div>
-     <!-- LEFT SIDE TEXT -->
-  <div style="flex:2; min-width:280px;">
-   <h2>Attend a Meeting</h2>
-    <p>
-      The Merrimack River Beach Alliance holds regular public meetings to
-      coordinate regional shoreline protection, coastal resilience planning,
-      and inter-community projects.
-    </p>
 
-    <p>
-      Meetings are open to the public. Stay informed about upcoming MRBA public meetings.  
-      Click highlighted dates to view details.
-    </p>
 </div>
-</div>
-    <ul>
-      <li>Regional coordination</li>
-      <li>Beach and shoreline projects</li>
-      <li>Grant planning and funding</li>
-      <li>Public access improvements</li>
-    </ul>
-  </div>
-  </div>
   
 ## What We Do
 
