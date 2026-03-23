@@ -24,6 +24,7 @@ title: Page Title
       scrolling="no">
     </iframe>
   </div>
+  </div>
 
 <!-- LEFT SIDE TEXT -->
   <div style="flex:2; min-width:280px;">
