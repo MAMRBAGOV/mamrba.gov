@@ -29,9 +29,8 @@ title: Page Title
   </div>
 
 </div>
-<!-- LEFT SIDE TEXT -->
-  <div style="flex:2; min-width:280px;">
-    <h2>Attend a Meeting</h2>
+
+## Attend a Meeting
     <p>
       The Merrimack River Beach Alliance holds regular public meetings to
       coordinate regional shoreline protection, coastal resilience planning,
