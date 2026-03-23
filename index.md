@@ -4,7 +4,7 @@ title: Page Title
 ---
  <!-- LEFT SIDE TEXT -->
   <div style="flex:2; min-width:280px;">
-#<h1>Merrimack River Beach Alliance (MRBA)</h1>
+<h1>Merrimack River Beach Alliance (MRBA)</h1>
 <p>
   Welcome to the Merrimack River Beach Alliance — a regional partnership of Salisbury, Newbury, and Newburyport working together with state and federal agencies to protect, improve, and enhance the beaches and shoreline along the Merrimack River and surrounding coast.
 
