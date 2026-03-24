@@ -92,13 +92,8 @@ title: Page Title
 
 </div>
 
-Past projects:
+## Past projects:
 
-2024,2025 Salisbury Beach-DCR has received $1.75 million dollars to conduct a dune nourishment project from beach public access 5 to beach public access 11.  Permits filed through the Town of Salisbury.
-
-2021 Newburyport Harbor dredging project to improve navigation. The project – was in the federal fiscal 2021 budget — moved sand from the Piscataqua River for placement near shore to protect the area from continuing erosion from major storms and waves.
-
-2010 channel dredging
 - [2009.10.01 Eligible Sand Replacement on Public Beaches Fact Sheet](/assets/docs/2009.10.01 Eligible Sand Replacement on Public Beaches Fact Sheet.pdf)
 - [2014.4.23 PLAN_Salisbury Beach Proposed Work Public Access 6-7 ](/assets/docs/2014.4.23 PLAN_Salisbury Beach Proposed Work Public Access 6-7.pdf)
 - [2015.4.24 FEMA Letter Sand Re-Nourishment Project](/assets/docs/2015.4.24 FEMA Letter Sand Re-Nourishment Project.pdf)
