@@ -29,6 +29,7 @@ title: Page Title
 
 <p style="font-size:14px; color:#666;"> 
   Thank you to the Town of Salisbury and the FY26 CZM Grant, we are able to have a digital information platform for our region at no cost. If you would like to share project pictures and information to be on the MRBA website please reach out to planningadmin@salisburyma.gov 
+</p>
 
 This page will share MRBA:
 - Project announcements  
