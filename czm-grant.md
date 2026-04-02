@@ -67,6 +67,11 @@ The project exemplifies local and regional partnerships by bringing together thr
 
 ### March 2026
 - Public information session scheduled
+- Monthly check in meeting
+- Website Development and MRBA meeting introduction
+
+### April 2026
+
 
 
 
