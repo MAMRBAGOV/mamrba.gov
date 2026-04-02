@@ -90,6 +90,15 @@ The Merrimack River Beach Alliance works closely with regional, state, federal, 
       <span style="color:#1f6f8b; font-weight:600;">Visit Website →</span>
     </div>
   </a>
+   <!-- SBBA -->
+  <a href="https://www.sbba.us/" target="_blank" style="flex:1; min-width:260px; text-decoration:none;">
+    <div style="background:white; padding:22px; border-radius:12px; box-shadow:0 3px 10px rgba(0,0,0,.1); height:100%; text-align:center;">
+      <img src="/assets/images/mvpc-logo.png" style="max-height:70px; margin-bottom:15px;">
+      <h3>Salisbury Beach Betterment Association</h3>
+      <p>Improving and Protecting the Quality of Life in our Community</p>
+      <span style="color:#1f6f8b; font-weight:600;">Visit Website →</span>
+    </div>
+  </a>
 
   <!-- PITA -->
   <a href="https://www.plumislandtaxpayers.org" target="_blank" style="flex:1; min-width:260px; text-decoration:none;">
@@ -100,7 +109,15 @@ The Merrimack River Beach Alliance works closely with regional, state, federal, 
       <span style="color:#1f6f8b; font-weight:600;">Visit Website →</span>
     </div>
   </a>
-
+ <!-- SBCFC -->
+  <a href="https://www.sbcfc.org/mission-statement" target="_blank" style="flex:1; min-width:260px; text-decoration:none;">
+    <div style="background:white; padding:22px; border-radius:12px; box-shadow:0 3px 10px rgba(0,0,0,.1); height:100%; text-align:center;">
+      <img src="/assets/images/mvpc-logo.png" style="max-height:70px; margin-bottom:15px;">
+      <h3>Merrimack Valley Planning Commission</h3>
+      <p>The ultimate purpose and goal of the Salisbury Beach Citizens for Change (SBCFC) is to improve the "Quality of Life" for Salisbury Beach property owners, their families, friends, and guests.</p>
+      <span style="color:#1f6f8b; font-weight:600;">Visit Website →</span>
+    </div>
+  </a>
 </div>
 
 
