@@ -41,7 +41,7 @@ is MassGIS's flagship interactive map. Use this to access virtually all MassGIS 
 is an online portal developed for the Massachusetts Office of Coastal Zone Management (CZM) by Blue Urchin that allows the public to collect and share photos and observations online or using a mobile app. Reports submitted to MyCoast of extreme high tides, coastal storm impacts, and living shoreline projects help increase awareness of flooding, erosion, and other coastal hazards and help inform storm response and coastal management decisions. Please note: Coastal areas can be extremely dangerous during storms and flooding events due to moving water, waves, and debris, so be sure to monitor your surroundings and be safe when taking photos.
 
 
-## Past projects:
+# Past projects:
 
 - [2000- 657 Frolics](/assets/docs/Appendix A_2000- 657 Frolics.pdf)
 - [2005- 1183 Access Survey](/assets/docs/Appendix B_2005- 1183 Access Survey.pdf)
