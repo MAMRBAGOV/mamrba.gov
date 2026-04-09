@@ -31,7 +31,12 @@ MRBA works closely with state and federal agencies, environmental organizations,
 
 
 <a href="http://www.tarrtalk.com" target="_blank"> Senator Tarr's Tarr Talk </a>
+# Contact
 
+For questions, comments, or to learn more about the Merrimack River Beach Alliance, please contact: massmrba@gmail.com
+
+Merrimack River Beach Alliance  
+c/o Salisbury, Newbury, or Newburyport 
 
 
 
