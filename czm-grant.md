@@ -14,7 +14,7 @@ identification of potential nourishment sources.
 
 ## Project Overview
 
-**Funding Program:** Massachusetts Coastal Zone Management (CZM) Coastal Resilience Grant Program 
+**Funding Program:** Massachusetts Coastal Zone Management (CZM) <a href="https://www.mass.gov/info-details/coastal-resilience-grant-program" target="_blank">Coastal Resilience Grant Program</a>   
 **Award Year:** 2026  
 **Project Title:** Upper North Shore Regional Shore Protection Strategy Development and Needs Assessment  
 **Lead Partners:** Salisbury, Newbury, Newburyport  
