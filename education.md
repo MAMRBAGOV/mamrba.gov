@@ -26,5 +26,5 @@ title: Page Title
 - [2022 North Jetty Dredge](/assets/docs/NOI+Attachments Submittal.pdf)
 - [2023 Salisbury DCR Access Points 8,9,10 Emergency Cert](/assets/docs/2023 Salisbury DCR Access Points 8,9,10 Emergency Cert.pdf)
 - [2024 Salisbury DCR Access Points 8,9,10 off NEB](/assets/docs/2024 Salisbury DCR Access Points 8,9,10 off NEB.pdf)
-- [2024-2025 Dune Nourishment](assets/docs/_1 FINAL PLANS over aerial 9-18.pdf)
+- [2024-2025 Dune Nourishment](assets/docs/FINALPLANSreducedsize.pdf)
 
