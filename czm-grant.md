@@ -49,8 +49,7 @@ The project exemplifies local and regional partnerships by bringing together thr
 
 - [Task List & Timeline](/assets/docs/Project Schedule.pdf)
 - [Project Scope & Work Plan (PDF)](/assets/docs/CZM_Project_Scope.pdf)
-- [Task 1 Presentation (PDF)](/assets/docs/SCS-Kick-off-Presentation-20260106.pdf)
-- [Task 2 Presentation (PDF)](/assets/docs/UpdateMtg1Slides_02102026_MAUpperNS.pdf) - [Task 2 Summary (PDF)](/assets/docs/Task2Summary_02102026_MAUpperNS.pdf)
+- [Task 2 Summary (PDF)](/assets/docs/Task2Summary_02102026_MAUpperNS.pdf)
   
 ---
 
@@ -67,7 +66,7 @@ The project exemplifies local and regional partnerships by bringing together thr
 - MVPC meeting with Town Employees to discuss public workshops
 
 ### March 2026
-- Public information session scheduled
+- Public information session planning 
 - Monthly check in meeting
 - Website Development and MRBA meeting introduction
 
