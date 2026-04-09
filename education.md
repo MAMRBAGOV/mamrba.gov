@@ -3,7 +3,7 @@ layout: default
 title: Page Title
 ---
 # Merrimack Valley Region Multi-Hazard Mitigation Plan 
- <a href="https://mvpc.org/natural-hazards/" target="_blank">Visit Website</a>  
+<a href="https://mvpc.org/natural-hazards/" target="_blank">Visit Website</a>  
 The formal process of hazard mitigation planning emerged as part of the Disaster Mitigation Act of 2000. This act amended the earlier Stafford Act by establishing a national program for pre-disaster mitigation. As part of this act, all municipalities are required to have a FEMA-approved Multi-Hazard Mitigation Plan in place and to ensure that the plan stays active to address changing hazards and risks. To maintain an active plan, regional and local jurisdictions must review and complete revisions every five years to address changes in development, progress in mitigation efforts, and changes in priorities. The Merrimack Valley Planning Commission assisted in preparing the most recent plan update. 
 
 # StormSmart Coasts Program
