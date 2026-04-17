@@ -13,6 +13,7 @@ The Massachusetts Office of Coastal Zone Management (CZM) StormSmart Coasts Prog
 
 <a href="https://www.mass.gov/info-details/resilientcoasts-initiative" target="_blank">ResilientCoasts Final Plan</a>
 Find details on this effort led by the Massachusetts Office of Coastal Zone Management (CZM). The ResilientCoasts Initiative provides a comprehensive, statewide framework to strengthen and protect the Massachusetts coastline from the impacts of climate change. The initiative was launched in November 2023 in response to a priority action identified in the 2023 
+
 <a href="https://www.mass.gov/info-details/2023-resilientmass-plan" target="_blank">ResilientMass Plan</a> 
 The ResilientCoasts Final Plan was completed in November 2025, following an 18-month-long planning and public engagement process. 
 
@@ -28,13 +29,9 @@ Find interactive maps of potential coastal flooding of community facilities and 
 <a href="https://hazards-fema.maps.arcgis.com/apps/webappviewer/index.html?id=8b0adb51996444d4879338b5529aa9cd" target="_blank">National Flood Hazard Layer Viewer</a> 
 represents the current effective flood data for the country. It is a compilation of effective Flood Insurance Rate Maps (FIRM) databases and letters of Map Revision (LOMRs). The default base map conforms to FEMA’s Specification for horizontal accuracy. This map should be considered the best online resource to use for official National Flood Insurance Program (NFIP) purposes when determining location in relation to regulatory flood hazard information. 
 
-### MassMapper
-<a href="https://maps.massgis.digital.mass.gov/MassMapper/MassMapper.html" target="_blank">Visit Website</a>
-is MassGIS's flagship interactive map. Use this to access virtually all MassGIS map layers and to view descriptive information about the features on the map.
+<a href="https://maps.massgis.digital.mass.gov/MassMapper/MassMapper.html" target="_blank">MassMapper</a> is MassGIS's flagship interactive map. Use this to access virtually all MassGIS map layers and to view descriptive information about the features on the map.
 
-### MyCoast: Massachusetts
-<a href="https://mycoast.org/ma" target="_blank">Visit Website</a> 
-is an online portal developed for the Massachusetts Office of Coastal Zone Management (CZM) by Blue Urchin that allows the public to collect and share photos and observations online or using a mobile app. Reports submitted to MyCoast of extreme high tides, coastal storm impacts, and living shoreline projects help increase awareness of flooding, erosion, and other coastal hazards and help inform storm response and coastal management decisions. Please note: Coastal areas can be extremely dangerous during storms and flooding events due to moving water, waves, and debris, so be sure to monitor your surroundings and be safe when taking photos.
+<a href="https://mycoast.org/ma" target="_blank">MyCoast: Massachusetts</a> is an online portal developed for the Massachusetts Office of Coastal Zone Management (CZM) by Blue Urchin that allows the public to collect and share photos and observations online or using a mobile app. Reports submitted to MyCoast of extreme high tides, coastal storm impacts, and living shoreline projects help increase awareness of flooding, erosion, and other coastal hazards and help inform storm response and coastal management decisions. Please note: Coastal areas can be extremely dangerous during storms and flooding events due to moving water, waves, and debris, so be sure to monitor your surroundings and be safe when taking photos.
 
 
 # Past projects:
