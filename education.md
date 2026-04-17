@@ -4,32 +4,28 @@ title: Page Title
 ---
 # Resources
 
-### Merrimack Valley Region Multi-Hazard Mitigation Plan 
-<a href="https://mvpc.org/natural-hazards/" target="_blank">Visit Website</a>  
+
+<a href="https://mvpc.org/natural-hazards/" target="_blank">Merrimack Valley Region Multi-Hazard Mitigation Plan</a>  
 The formal process of hazard mitigation planning emerged as part of the Disaster Mitigation Act of 2000. This act amended the earlier Stafford Act by establishing a national program for pre-disaster mitigation. As part of this act, all municipalities are required to have a FEMA-approved Multi-Hazard Mitigation Plan in place and to ensure that the plan stays active to address changing hazards and risks. To maintain an active plan, regional and local jurisdictions must review and complete revisions every five years to address changes in development, progress in mitigation efforts, and changes in priorities. The Merrimack Valley Planning Commission assisted in preparing the most recent plan update. 
 
-### StormSmart Coasts Program
-<a href="https://www.mass.gov/stormsmart-coasts-program" target="_blank">Visit Website</a> 
+<a href="https://www.mass.gov/stormsmart-coasts-program" target="_blank">StormSmart Coasts Program</a> 
 The Massachusetts Office of Coastal Zone Management (CZM) StormSmart Coasts Program provides information, strategies, and tools to help communities and people working and living on the coast to address the challenges of erosion, flooding, storms, sea level rise, and other climate change impacts. The program also promotes effective management of coastal landforms, such as beaches and dunes. 
-### ResilientCoasts Final Plan
-<a href="https://www.mass.gov/info-details/resilientcoasts-initiative" target="_blank">Visit Website</a>
+
+<a href="https://www.mass.gov/info-details/resilientcoasts-initiative" target="_blank">ResilientCoasts Final Plan</a>
 Find details on this effort led by the Massachusetts Office of Coastal Zone Management (CZM). The ResilientCoasts Initiative provides a comprehensive, statewide framework to strengthen and protect the Massachusetts coastline from the impacts of climate change. The initiative was launched in November 2023 in response to a priority action identified in the 2023 
-### ResilientMass Plan 
-<a href="https://www.mass.gov/info-details/2023-resilientmass-plan" target="_blank">Visit Website</a> 
+<a href="https://www.mass.gov/info-details/2023-resilientmass-plan" target="_blank">ResilientMass Plan</a> 
 The ResilientCoasts Final Plan was completed in November 2025, following an 18-month-long planning and public engagement process. 
 
-### The Massachusetts Wetlands Protection Act (M.G.L. c. 131, §40)
-<a href="https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mass.gov/doc/310-cmr-1000-the-wetlands-protection-act/download&ved=2ahUKEwjupd-KidqTAxX5MlkFHTPADbYQFnoECBwQAQ&usg=AOvVaw2eiIawf9iihfs1inVzx_KU" target="_blank">Visit Website</a>  
+<a href="https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mass.gov/doc/310-cmr-1000-the-wetlands-protection-act/download&ved=2ahUKEwjupd-KidqTAxX5MlkFHTPADbYQFnoECBwQAQ&usg=AOvVaw2eiIawf9iihfs1inVzx_KU" target="_blank">The Massachusetts Wetlands Protection Act (M.G.L. c. 131, §40)</a>  
 prohibits the unauthorized removal, dredging, filling, or altering of wetland resource areas. It protects 100-foot buffer zones around wetlands and 200-foot areas around rivers to safeguard public and private water supplies, groundwater supply, flood control, storm damage prevention, prevention of pollution, protection of land containing shellfish, fisheries, and wildlife habitats. Always check your local bylaws for additional regulations.
 
-### Applying the Massachusetts Coastal Wetlands Regulations
-<a href="https://www.mass.gov/info-details/applying-the-massachusetts-coastal-wetlands-regulations" target="_blank">Visit Website</a>
+<a href="https://www.mass.gov/info-details/applying-the-massachusetts-coastal-wetlands-regulations" target="_blank">Applying the Massachusetts Coastal Wetlands Regulations</a>
 developed by the Massachusetts Office of Coastal Zone Management (CZM) and Department of Environmental Protection (MassDEP). The Coastal Manual provides Commissions with tools, data, and information to delineate the coastal resource areas, determine resource area functions, assess potential project impacts, and evaluate whether the project meets or can be conditioned to meet the performance standards. Along with step-by-step instructions, checklists, and example scenarios that describe a Commission’s review of a project, this manual includes notes on adjudicatory decisions and provides general MassDEP policy guidance.
-### Massachusetts Sea Level Rise and Coastal Flooding Viewer
-<a href="https://www.mass.gov/info-details/massachusetts-sea-level-rise-and-coastal-flooding-viewer" target="_blank">Visit Website</a>
+
+<a href="https://www.mass.gov/info-details/massachusetts-sea-level-rise-and-coastal-flooding-viewer" target="_blank">Massachusetts Sea Level Rise and Coastal Flooding Viewer</a>
 Find interactive maps of potential coastal flooding of community facilities and infrastructure developed by the Massachusetts Office of Coastal Zone Management (CZM).
-### National Flood Hazard Layer Viewer
-<a href="https://hazards-fema.maps.arcgis.com/apps/webappviewer/index.html?id=8b0adb51996444d4879338b5529aa9cd" target="_blank">Visit Website</a> 
+
+<a href="https://hazards-fema.maps.arcgis.com/apps/webappviewer/index.html?id=8b0adb51996444d4879338b5529aa9cd" target="_blank">National Flood Hazard Layer Viewer</a> 
 represents the current effective flood data for the country. It is a compilation of effective Flood Insurance Rate Maps (FIRM) databases and letters of Map Revision (LOMRs). The default base map conforms to FEMA’s Specification for horizontal accuracy. This map should be considered the best online resource to use for official National Flood Insurance Program (NFIP) purposes when determining location in relation to regulatory flood hazard information. 
 
 ### MassMapper
