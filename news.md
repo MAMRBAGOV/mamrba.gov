@@ -5,9 +5,9 @@ title: Page Title
 # MRBA News 
 <h2>Sign Up for Email Updates</h2>
 
- <div style="max-width: 700px; margin: 0 auto;">
+<div style="max-width: 700px; margin: 0 auto;">
   <iframe 
-    src="https://docs.google.com/forms/d/e/https://docs.google.com/forms/d/e/1FAIpQLSfbn2IFDXxlTvcAHpRE5zDd1OVcNhM1BbsTDAnH5SKyuaP3Dw/viewform?usp=header/viewform?embedded=true" 
+    src="https://docs.google.com/forms/d/e/https://docs.google.com/forms/d/e/1FAIpQLSfbn2IFDXxlTvcAHpRE5zDd1OVcNhM1BbsTDAnH5SKyuaP3Dw/viewform?usp=publish-editor/viewform?embedded=true" 
     width="100%" 
     height="800" 
     frameborder="0" 
@@ -16,6 +16,7 @@ title: Page Title
     Loading…
   </iframe>
 </div>
+
 <p style="font-size:14px; color:#666;">
   We only use your email for Alliance updates. No spam.
 </p>
