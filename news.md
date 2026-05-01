@@ -5,22 +5,17 @@ title: Page Title
 # MRBA News 
 <h2>Sign Up for Email Updates</h2>
 
-<form
-  action="https://formspree.io/f/xlgnldkb"
-  method="POST"
->
-  <label>
-    Your email:
-    <input type="email" name="email">
-  </label>
-  <label>
-    Your message (optional):
-    <textarea name="message"></textarea>
-  </label>
-  <!-- your other form fields go here -->
-  <button type="submit">Send</button>
-</form>
-
+ <div style="max-width: 700px; margin: 0 auto;">
+  <iframe 
+    src="https://docs.google.com/forms/d/e/https://docs.google.com/forms/d/e/1FAIpQLSfbn2IFDXxlTvcAHpRE5zDd1OVcNhM1BbsTDAnH5SKyuaP3Dw/viewform?usp=header/viewform?embedded=true" 
+    width="100%" 
+    height="800" 
+    frameborder="0" 
+    marginheight="0" 
+    marginwidth="0">
+    Loading…
+  </iframe>
+</div>
 <p style="font-size:14px; color:#666;">
   We only use your email for Alliance updates. No spam.
 </p>
