@@ -77,6 +77,7 @@ The project exemplifies local and regional partnerships by bringing together thr
 ## May 2026
 - Public forums scheduled
 - Public information session planning
+- Monthly check in meeting
   
 ## June 2026
 - Community Forum 1, June 4, 2026 5:00 PM - 6:30 PM, Blue Ocean Event Center, 4 Ocean Front S, Salisbury MA 01952
