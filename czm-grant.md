@@ -74,6 +74,13 @@ The project exemplifies local and regional partnerships by bringing together thr
 - Monthly check in meeting
 - Website Development and information gathering
 
+## May 2026
+- Public forums scheduled
+- Public information session planning
+  
+## June 2026
+- Community Forum 1, June 4, 2026 5:00 PM - 6:30 PM, Blue Ocean Event Center, 4 Ocean Front S, Salisbury MA 01952
+- Community Fprum 2, June 5, 2026 10:00 AM - 11:30 AM, PITA HALL, 8 Plum Island Boulevard, Newbury, MA 01951
 
 
 ---
