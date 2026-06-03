@@ -39,9 +39,9 @@ The project exemplifies local and regional partnerships by bringing together thr
 - Patrice Kish, DCR Chief, Design & Engineering
 - Darryl Forgione, DCR Project Manager       
 - Hanna Mogensen, Environmental Program Coordinator & MassBays Regional Coordinator, Merrimack Valley Planning Commission     
-- John Ramsey, Principal Coastal Engineer (SCS)
-- Kayla Gillen, , P.E., Senior Coastal Engineer (SCS)
-- Emma Manzella, P.E., Senior Coastal Engineer (SCS)
+- John Ramsey,Principal Coastal Engineer (SCS)
+- Kayla Gillen, Coastal Engineer (SCS)
+- Emma Manzella, Coastal Scientist (SCS)
 
 ---
 
