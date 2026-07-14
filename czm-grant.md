@@ -85,7 +85,7 @@ The project exemplifies local and regional partnerships by bringing together thr
 - Community Forum 2, June 5, 2026 10:00 AM - 11:30 AM, PITA HALL, 8 Plum Island Boulevard, Newbury, MA 01951
 - [View Presentation(PDF)](/assets/docs/BeachForum_Fri.pdf)
 - Project Report June 30, 2026
--[View Report(PDF)](/assets/docs/reducedfilesize_FULL_CZM_MAUpperNorthShore_report 06-30-2026.pdf)
+- [View Report(PDF)](/assets/docs/reducedfilesize_FULL_CZM_MAUpperNorthShore_report 06-30-2026.pdf)
 
 
 ---
