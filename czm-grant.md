@@ -49,7 +49,9 @@ The project exemplifies local and regional partnerships by bringing together thr
 
 - [Task List & Timeline](/assets/docs/Project Schedule.pdf)
 - [Project Scope & Work Plan (PDF)](/assets/docs/CZM_Project_Scope.pdf)
-  
+- [Presentation from Public Forum 1 (June 4, 2026)](/assets/docs/BeachForum_Thurs.pdf)
+- [Presentation from Public Forum 2 (June5, 2026)](/assets/docs/BeachForum_Fri.pdf)
+- [Final Report](/assets/docs/reducedfilesize_FULL_CZM_MAUpperNorthShore_report 06-30-2026.pdf)
 ---
 
 ## Project Updates
@@ -81,11 +83,9 @@ The project exemplifies local and regional partnerships by bringing together thr
   
 ## June 2026
 - Community Forum 1, June 4, 2026 5:00 PM - 6:30 PM, Blue Ocean Event Center, 4 Ocean Front S, Salisbury MA 01952
-- [View Presentation(PDF)](/assets/docs/BeachForum_Thurs.pdf)
 - Community Forum 2, June 5, 2026 10:00 AM - 11:30 AM, PITA HALL, 8 Plum Island Boulevard, Newbury, MA 01951
-- [View Presentation(PDF)](/assets/docs/BeachForum_Fri.pdf)
 - Project Report June 30, 2026
-- [View Report(PDF)](/assets/docs/reducedfilesize_FULL_CZM_MAUpperNorthShore_report 06-30-2026.pdf)
+
 
 
 ---
