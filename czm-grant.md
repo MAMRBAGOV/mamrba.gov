@@ -51,7 +51,7 @@ The project exemplifies local and regional partnerships by bringing together thr
 - [Project Scope & Work Plan (PDF)](/assets/docs/CZM_Project_Scope.pdf)
 - [Presentation from Public Forum 1 (June 4, 2026)](/assets/docs/BeachForum_Thurs.pdf)
 - [Presentation from Public Forum 2 (June5, 2026)](/assets/docs/BeachForum_Fri.pdf)
-- [Final Report](/assets/docs/reducedfilesize_FULL_CZM_MAUpperNorthShore_report 06-30-2026.pdf)
+- [Final Report ](/assets/docs/reducedfilesize_FULL_CZM_MAUpperNorthShore_report 06-30-2026.pdf)
   
 ---
 
