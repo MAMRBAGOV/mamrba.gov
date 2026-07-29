@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CR FY26 Grant Award
+title: CZM FY26 Grant Award
 ---
 
 # CR FY26 Grant Award & Project Updates
